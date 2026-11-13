@@ -29,4 +29,4 @@ B.Eng. in Software Engineering. English: CET-6.
 
 ## Side project
 
-I also build small developer tools, for example [ui-layout-inspector](https://github.com/Songzai-Log/ui-layout-inspector), an offline viewer for the accessibility tree of every display of an Android device.
+I also build small developer tools, for example [ui-layout-inspector](https://github.com/ReySunDev/ui-layout-inspector), an offline viewer for the accessibility tree of every display of an Android device.
